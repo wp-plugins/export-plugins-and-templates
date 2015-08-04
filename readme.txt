@@ -23,6 +23,15 @@ Contributors: okfie
 == Description ==
 In this plugin you will be able to export your plugins and templates by easy way so, the file after export it will be zip file you can upload zip file to another sites if you want that's :) .
 
+= Features =
+- Export Your Plugins
+- Export Your Templates
+
+= Translations = 
+- Arabic 
+- English
+- Spanish ( by Said El Bakkali [ ]http://saidelbakkali.com ] )
+
 == Screenshots ==
 1. Option of "Export plugins"  in the "Plugins" menu.
 2. Export plugins page
