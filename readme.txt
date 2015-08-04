@@ -30,7 +30,7 @@ In this plugin you will be able to export your plugins and templates by easy way
 = Translations = 
 - Arabic 
 - English
-- Spanish ( by Said El Bakkali [ ]http://saidelbakkali.com ] )
+- Spanish by [Said El Bakkali](http://saidelbakkali.com//)
 
 == Screenshots ==
 1. Option of "Export plugins"  in the "Plugins" menu.
