@@ -8,13 +8,13 @@ Contributors: okfie
 
 == Installation ==
 
-** Installation Automatically **
+= Installation Automatically =
 1. Click Plugins in the menu dashboard.
 2. Click Add New.
 3. Upload and choose "export-plugins-and-templates.zip" file and activate directly.
 4. After activated plugin you can see export plugin in "Plugins" menu and export templets in "Appearance" menu.
 
-** Installation Manually **
+= Installation Manually =
 1. Download the plugin to your computer.
 2. Unzip the file and upload it to the "/wp-content/plugins/" from FTP or Cpanel.
 3. Activate the plugin through the 'Plugins' menu in WordPress dashboard.
