@@ -32,12 +32,12 @@ In this plugin you will be able to export your plugins and templates by easy way
 
 == Usage ==
 
-** Export Plugins **
-After installing the plugin, you need to go to the "Export Plugins" subsection in the "Plugins" menu. 
+= Export Plugins =
+- After installing the plugin, you need to go to the "Export Plugins" subsection in the "Plugins" menu. 
 Just select the plugin you want and then click in the "Export Plugin Now" button. You will get a .zip file to download. 
 
-** Export Templates **
-After installing the plugin, you need to go to the "Export Templates" subsection in the "Appearence" menu. 
+= Export Templates =
+- After installing the plugin, you need to go to the "Export Templates" subsection in the "Appearence" menu. 
 Just select the template you want and then click in the "Export Template Now" button. You will get a .zip file to download. 
 
 
